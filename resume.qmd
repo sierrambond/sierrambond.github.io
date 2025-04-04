@@ -1,19 +1,19 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Sierra Bond's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Sierra Bond
+Accountant, Student, Friend.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+<a href="sierrambond@gmail.com">sierrambond@gmail.com</a>
+<!-- | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+</div> -->
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Finishing applying to grad programs and jobs
 
 ### Specialized in
 
@@ -27,19 +27,15 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sept 2021-July 2025`
+__Brigham Young University-Idaho, Rexburg.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
+<!-- - Sizar
 
 `1667 - death`
 __Trinity College, Cambridge__
 
-- Fellow
-
+- Fellow -->
 
 
 ## Awards
@@ -84,6 +80,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 
 
-<!-- ### Footer
+### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2025
