@@ -67,6 +67,6 @@ __Crew Member at Little Caesar's__, Rexburg,ID
 
 
 
-### Footer
+<!-- ### Footer -->
 
 Last updated: April 2025
