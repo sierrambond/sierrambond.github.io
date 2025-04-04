@@ -5,7 +5,7 @@ website:
   title: "Sierra Bond - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/sierrambond/sierrambond_w25/
+  repo-url: https://github.com/sierrambond/sierrambond.github.io
   repo-actions: [issue]
 
   page-footer: 
