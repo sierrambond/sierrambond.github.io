@@ -7,9 +7,6 @@ Accountant, Student, Friend.
 
 <div id="webaddress">
 <a href="sierrambond@gmail.com">sierrambond@gmail.com</a>
-<!-- | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div> -->
-
 
 ## Currently
 
@@ -19,64 +16,54 @@ Applying to grad programs and jobs
 
 Being a leader, effective communication, learning quickly, coding with Excel VBA
 
-
 ### Research interests
 
 Plants, tax credits, pickleball, colleges, jobs.
 
-
 ## Education
 
-`Sept 2021-July 2025`
+`September 2021-July 2025`
 __Brigham Young University-Idaho, Idaho.__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- ursuing a degree in accounting with a data science certificate and an emphasis in computer information
+- Member of Student Accounting Society, volunteered at the school’s tax center (February 2025-April 2025)
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2024`
+MyEducator certificate of achievement for satisfactory completion of the MySQL course
 
-Associate, *French Academy of Science*, Paris, France
+`2021`
+Seal of Biliteracy Award - Spanish language at both the State and Global level
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+`2020-2021`
+Member of National Honor Society and Spanish National Honor Society
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`October 2023 - Now`
+__Team Member at Culver's__, Idaho Falls, ID
 
-- Warden
-- Minted coins
+- Greeted guests with a smile which ensured they felt welcome when they ordered and then took their orders quickly
+- Streamlined drive-thru orders during peak hours, boosting accuracy by 34% while addressing special requests
+- Delegated front of house tasks ensuring food items went out at or under the corporate standard time
+- Ensured guest satisfaction by checking in with diners, addressing concerns promptly, and resolving issues
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+
+`January - April 2023, February - April 2022`
+__Head Tax Intern at Crandall & Oseen PAs__, Idaho Falls, ID
+
+- Processed an average of 250 tax returns per busy season, ensuring fast and accurate data entry to meet deadlines
+- Reviewed and revised preliminary tax returns with CPAs, incorporating feedback to ensure accuracy and compliance
+- Contacted clients to obtain missing information, ensuring timely completion of returns before the tax deadline
+
+`August 2022 - July 2023`
+__Crew Member at Little Caesar's__, Rexburg,ID
+
+- Efficiently greeted customers and operated the cash register, reducing wait times by 18% during busy rushes
+- Meticulously followed custom order details to ensure customer satisfaction and loyalty
+- Maintained precision in repetitive tasks to uphold high standards and the company’s reputation
 
 
 
